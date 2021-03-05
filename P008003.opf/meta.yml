@@ -1,15 +1,16 @@
-id: opecha:P008003
+id: P008003
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ7854
   title: སྔགས་རིམ་ཆེན་མོ།
-  volume:
+  author: ''
+  volumes:
     0936d215b4c84638884b6b3741254d7d:
       image_group_id: I1KG9240
       title: Volume 1 of sngags rim chen mo/
       volume_number: 1
       total_pages: 734
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྔགས་རིམ་ཆེན་མོ།
   author: ''
